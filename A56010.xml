@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prophesie, which hath been in a manuscript, in the Lord Powis's family sixty years</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56010</idno>
+            <idno type="STC">Wing P3685</idno>
+            <idno type="STC">ESTC R31933</idno>
+            <idno type="EEBO-CITATION">12276829</idno>
+            <idno type="OCLC">ocm 12276829</idno>
+            <idno type="VID">58462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1512:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Prophesie, which hath been in a manuscript, in the Lord Powis's family sixty years</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powis, William Herbert, --  Duke of, 1617-1696.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:58462:1"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:58462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>PROPHESIE, Which hath been in a Manuſcript, IN THE <hi>Lord Powis's family Sixty Years.</hi>
+            </head>
+            <lg>
+               <lg>
+                  <head>1647</head>
+                  <l>ABout the time that I ſhall be</l>
+                  <l>Joyned unto 2 times 3.</l>
+               </lg>
+               <lg>
+                  <head>1648</head>
+                  <l>And 4 times 10 with 4 times 2</l>
+                  <l>Amongſt us ſhall be great ado.</l>
+               </lg>
+               <l>An Eagles Head that time ſhall fall,</l>
+               <l>Scattered will be the young ones all.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <head>Oliver Cromwel</head>
+                  <l>Then ſhall a Cypher ſwell ſo great, </l>
+                  <l>His Name 100 takes the Seat,</l>
+               </lg>
+               <l>And ſhall do mighty things before</l>
+               <l>He is removed off the Shore.</l>
+               <lg>
+                  <head>1658.</head>
+                  <l>But 10 times 4 with 8 times 6,</l>
+                  <l>Doth in another World him fix.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then quickly after you ſhall ſpy,</l>
+               <l>The Eagle back again to fly,</l>
+               <l>And ſhall himſelf bedeck again,</l>
+               <l>With Feathers of his Fathers Train.</l>
+               <l>Then heavy Times ſhall make men ſay,</l>
+               <l>Oft-times alas and welladay,</l>
+               <l>And wiſh that they a Death might find,</l>
+               <l>For ſomthing troubles ſore their Mind.</l>
+               <l>Then after all a Cloud ſhall come,</l>
+               <l>And almoſt darken quite the Sun.</l>
+               <l>And in that time Actions ſhall be</l>
+               <l>Chiefly carried on by three.</l>
+               <l>The Croſs, the Surpliſe, and the Crown,</l>
+               <l>Strive who ſhall put each other down.</l>
+               <l>Great Treachery and Bloodſhed then</l>
+               <l>Shall ſweep away great ſtore of Men.</l>
+            </lg>
+            <lg>
+               <l>The Lion and blue Flower ſhall ſeek</l>
+               <l>Quite to deſtroy the Heretick Sheep.</l>
+               <l>And <hi>England</hi> ſhall be hard beſtead,</l>
+               <l>Before the Miter hence be rid.</l>
+               <l>Falſe <hi>Ireland</hi> contrives our woe,</l>
+               <l>But zealous <hi>Scotland</hi> doth not ſo.</l>
+            </lg>
+            <lg>
+               <head>1677</head>
+               <l>Begin again at 1 and 6, </l>
+               <l>And 10 times 7 begins theſe Tricks.</l>
+            </lg>
+            <lg>
+               <head> 1681</head>
+               <l>And for a time ſhall laſt full ſore,</l>
+               <l>Till you may number 1 and 4.</l>
+            </lg>
+            <lg>
+               <head>1685.</head>
+               <l>And for 4 more it ſhall abate,</l>
+               <l>To return in an happy ſate.</l>
+            </lg>
+            <lg>
+               <l>Then better every day will be,</l>
+               <l>But no more — in <hi>England</hi> ſee.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <head>1680.</head>
+                  <l>When 8 times 8 and 3 times 3,</l>
+                  <l>With 6 and 1 ſhall joyned be,</l>
+                  <l>Then ſhall be ſacrificed <hi>C.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In duſt ſhall lye that arrant Whore,</l>
+                  <l>Diſdain'd of all like to <hi>J</hi>— <hi>S</hi>—</l>
+                  <l>And all her Brats turn'd out of dore.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>J. R.</hi> ſhall into Saddle ſlide,</l>
+                  <l>And furiouſly to <hi>Rome</hi> ſhall ride,</l>
+                  <l>His Principles no longer hide.</l>
+               </lg>
+               <lg>
+                  <l>The Pope ſhall have a fatal Fall,</l>
+                  <l>And never trouble more <hi>Whitehall,</hi>
+                  </l>
+                  <l>Nor <hi>England</hi>'s People more inthrall.</l>
+               </lg>
+               <lg>
+                  <l>And he that chanceth to ſurvive,</l>
+                  <l>Until the year of eighty five,</l>
+                  <l>Shall ſee this Land begin to thrive.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>O <hi>England</hi>'s wonder, which hath never been,</l>
+               <l>3 Q— in <hi>England</hi> ſhortly ſhall be ſeen!</l>
+               <l>2 D— ſhall highly for the Crown contend,</l>
+               <l>Each ſhall bring <hi>England</hi>'s Monarchy to end.</l>
+               <l>B— ſhall fall into contempt and ſcorn,</l>
+               <l>And Goſpel-Angels ſhall our Church adorn.</l>
+               <l>If any ask, how this ſhall come to paſs,</l>
+               <l>The Fox ſhall ride the Gooſe, the Gooſe the Aſs.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
